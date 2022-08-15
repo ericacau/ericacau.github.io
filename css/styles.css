@@ -11420,6 +11420,13 @@ section.resume-section .resume-section-content {
   width: 100%;
 }
 
+.embedsocial-hashtag{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
