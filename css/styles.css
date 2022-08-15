@@ -4029,6 +4029,13 @@ textarea.form-control-lg {
   display: block;
 }
 
+.container-fluid{
+  background-image: url('../assets/img/graph.png');
+  background-position: right top;
+  background-size: 35%;
+  background-repeat: no-repeat;
+  
+}
 .navbar {
   position: relative;
   display: flex;
