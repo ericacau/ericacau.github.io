@@ -206,6 +206,13 @@ article {
   z-index: -1;
 }
 
+
+
+.service-icon-box {
+  color: var(--orange-yellow-crayola);
+}
+
+
 .icon-box ion-icon { --ionicon-stroke-width: 35px; }
 
 article { display: none; }
@@ -540,7 +547,8 @@ main {
   z-index: -1;
 }
 
-.service-icon-box { margin-bottom: 10px; }
+.service-icon-box { margin-bottom: 10px;
+ }
 
 .service-icon-box img { margin: auto; }
 
@@ -555,6 +563,9 @@ main {
   line-height: 1.6;
 }
 
+ion-icon {
+  color: orange-yellow-crayola;
+}
 
 /**
  * #testimonials 
