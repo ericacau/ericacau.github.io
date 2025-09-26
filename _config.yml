@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Erica"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"
   bio              : "Ph.D. student is AI for Society @ University of Pisa"
   location         : "Pisa"
   employer         : "University of Pisa"
