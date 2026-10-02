@@ -1,14 +1,14 @@
 ---
-title: "Y social: an LLM-powered social media digital twin"
+title: "YSocial: An artificial intelligence powered social media virtual twin"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-y-social
+permalink: /publication/2026-ysocial
 excerpt: 'This paper presents Y Social, an LLM-powered digital twin of social media designed to simulate online interactions and study complex social phenomena.'
-date: 2024-08-01
-venue: 'arXiv preprint'
+date: 2026-01-01
+venue: 'Big Data & Society'
 slidesurl: ''
-paperurl: 'https://arxiv.org/abs/2408.00818'
-citation: 'Rossetti, G., Stella, M., Cazabet, R., Abramski, K., Cau, E., Citraro, S., ... & Pansanella, V. (2024). "Y social: an LLM-powered social media digital twin." <i>arXiv preprint arXiv:2408.00818</i>.'
+paperurl: 'https://doi.org/10.1177/20539517261431576'
+citation: 'Rossetti, G., Stella, M., Cazabet, R., Abramski, K., Citraro, S., Cau, E., Failla, A., Morini, V., & Pansanella, V. (2026). "YSocial: An artificial intelligence powered social media virtual twin." <i>Big Data & Society</i>, 13(3), 20539517261431576.'
 ---
 
-This paper introduces **Y Social**, an LLM-powered digital twin of social media platforms. The system enables researchers to reproduce, observe, and manipulate online dynamics in a controlled environment, opening new opportunities for investigating polarization, information diffusion, and collective behaviors in artificial societies.
+This paper introduces **YSocial**, an AI-powered virtual twin of social media platforms. The system enables researchers to reproduce, observe, and manipulate online dynamics in a controlled environment, opening new opportunities for investigating polarization, information diffusion, and collective behaviors in artificial societies.
