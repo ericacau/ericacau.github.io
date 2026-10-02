@@ -1,152 +1,127 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Erica Cau",
+    "label": "Ph.D. Student in Artificial Intelligence for Society and Research Fellow",
+    "email": "erica.cau@isti.cnr.it",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ericacau.github.io",
+    "summary": "Ph.D. student in Artificial Intelligence for Society at the University of Pisa and Research Fellow at ISTI-CNR. My research focuses on online discussions, information pollution, echo chambers, opinion dynamics, and social simulations with Large Language Models.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Pisa",
+      "countryCode": "Italy",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Erica Cau",
+        "url": "https://scholar.google.it/citations?user=9aXiIaoAAAAJ&hl=it&oi=ao"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "0009-0005-7267-9870",
+        "url": "https://orcid.org/0009-0005-7267-9870"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ericacau",
+        "url": "https://github.com/ericacau"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "University of Pisa",
+      "position": "Tutor, Social Network Analysis",
+      "startDate": "February 2024",
+      "endDate": "Present",
+      "summary": "Tutor for the Social Network Analysis course.",
+      "highlights": []
+    },
+    {
+      "company": "University of Pisa",
+      "position": "Tutor, Digital Humanities",
+      "startDate": "February 2022",
+      "endDate": "June 2022",
+      "summary": "Tutor for the Geografia Culturale and Laboratorio di Scrittura courses.",
+      "highlights": []
+    },
+    {
+      "company": "Fondazione Mondo Digitale and United States Embassy in Italy",
+      "position": "Coding Girls Tutor",
+      "startDate": "March 2022",
+      "endDate": "July 2022",
+      "summary": "Worked with high-school students on the development of a mobile application promoting trust in science and environmental protection.",
+      "highlights": []
+    },
+    {
+      "company": "ILC-CNR, Pisa",
+      "position": "Bachelor's Degree Intern",
+      "startDate": "July 2019",
+      "endDate": "November 2019",
+      "summary": "Applied classification models to textual data for the automatic recognition of different genres.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Pisa",
+      "area": "Ph.D. in Artificial Intelligence for Society",
+      "studyType": "Ph.D.",
+      "startDate": "2023",
+      "endDate": "Ongoing",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "University of Pisa",
+      "area": "Master's Degree in Digital Humanities",
+      "studyType": "Master's Degree",
+      "startDate": "2020",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "University of Pisa",
+      "area": "Bachelor's Degree in Digital Humanities",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2016",
+      "endDate": "2020",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Research methods",
+      "keywords": [
+        "Large Language Models",
+        "Social Network Analysis",
+        "Network Science",
+        "Natural Language Processing",
+        "Agent-based social simulation"
+      ]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research interests",
+      "keywords": [
+        "Opinion dynamics",
+        "Echo chambers",
+        "Information pollution",
+        "Online social networks",
+        "Social digital twins"
+      ]
+    }
+  ],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
