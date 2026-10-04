@@ -2,7 +2,6 @@
 title: "LLMs and Cognition: From Representation Biases to a Theory of Mind"
 collection: publications
 category: books
-permalink: /publication/2026-llms-and-cognition
 excerpt: 'This chapter connects research on representation biases in large language models with theory-of-mind capabilities.'
 date: 2026-01-01
 venue: 'Handbook of Human-AI Collaboration'

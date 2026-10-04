@@ -14,7 +14,7 @@
 # 
 # - `excerpt` and `paper_url` can be blank, but the others must have values. 
 # - `pub_date` must be formatted as YYYY-MM-DD.
-# - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper. The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/publications/YYYY-MM-DD-[url_slug]`
+# - `url_slug` is the descriptive part of the generated `.md` filename. The file will be `YYYY-MM-DD-[url_slug].md`; Jekyll derives the publication URL from it automatically.
 
 
 # ## Import pandas
@@ -75,8 +75,6 @@ for row, item in publications.iterrows():
     # TODO Update to use the category assigned in the TSV file
     md += """collection: manuscripts"""
     
-    md += """\npermalink: /publication/""" + html_filename
-    
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
@@ -105,5 +103,3 @@ for row, item in publications.iterrows():
        
     with open("../_publications/" + md_filename, 'w') as f:
         f.write(md)
-
-

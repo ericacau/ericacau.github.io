@@ -2,7 +2,6 @@
 title: "AI-Assisted Simulation-Based Modeling (Agent-Based Modeling): from simple interaction rules to emergent collective behavior"
 collection: teaching
 type: "Teacher"
-permalink: /teaching/2026-yadesa
 venue: "YADESA Summer School, Ibn Haldun University"
 date: 2026-07-08
 location: "Istanbul, Türkiye"

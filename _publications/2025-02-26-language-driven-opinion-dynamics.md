@@ -2,7 +2,6 @@
 title: "Language-Driven Opinion Dynamics in Agent-Based Simulations with LLMs"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-language-driven-opinion-dynamics
 excerpt: 'This paper introduces a language-driven opinion dynamics model for agent-based simulations with large language models.'
 date: 2025-02-26
 venue: 'arXiv preprint arXiv:2502.19098'

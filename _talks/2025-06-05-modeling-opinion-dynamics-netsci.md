@@ -2,7 +2,6 @@
 title: "Modeling opinion dynamics of LLM populations @ NetSci2025"
 collection: talks
 type: "Oral presentation"
-permalink: /talks/2025-06-05
 venue: "MECC Maastricht"
 date: 2025-06-05
 location: "Maastricht, Netherlands"

@@ -2,7 +2,6 @@
 title: "Coding Girls"
 collection: teaching
 type: "Tutor"
-permalink: /teaching/2022-coding-girls
 venue: "Fondazione Mondo Digitale and United States Embassy in Italy"
 date: 2022-03-01
 location: "Italy"

@@ -2,7 +2,6 @@
 title: "A framework for the diachronic and linguistic analysis of online polarized discussions"
 collection: publications
 category: conferences
-permalink: /publication/2023-framework-polarized-discussions
 excerpt: 'A framework for studying the temporal and linguistic evolution of polarized online discussions.'
 date: 2023-01-01
 venue: 'Complex Networks 2023'

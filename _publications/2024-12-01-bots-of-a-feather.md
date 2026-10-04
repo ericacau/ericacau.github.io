@@ -2,7 +2,6 @@
 title: "Bots of a Feather: Mixing Biases in LLMs’ Opinion Dynamics"
 collection: publications
 category: conferences
-permalink: /publication/2024-bots-of-a-feather
 excerpt: 'This paper investigates how biases interact and evolve in opinion dynamics when simulated with large language models.'
 date: 2024-12-01
 venue: 'International Conference on Complex Networks and Their Applications'

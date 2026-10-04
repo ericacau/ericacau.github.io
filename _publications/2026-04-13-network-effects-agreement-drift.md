@@ -2,7 +2,6 @@
 title: "Network Effects and Agreement Drift in LLM Debates"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-network-effects-agreement-drift
 excerpt: 'This paper studies how network structure affects opinion dynamics and agreement drift in debates among LLM agents.'
 date: 2026-04-13
 venue: 'arXiv preprint arXiv:2604.11312'

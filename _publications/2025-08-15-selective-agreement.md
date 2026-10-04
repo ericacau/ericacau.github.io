@@ -2,7 +2,6 @@
 title: "Selective agreement, not sycophancy: investigating opinion dynamics in LLM interactions"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-selective-agreement
 excerpt: 'This paper investigates opinion dynamics in LLM interactions, showing that models exhibit selective agreement rather than simple sycophancy.'
 date: 2025-08-15
 venue: 'EPJ Data Science'

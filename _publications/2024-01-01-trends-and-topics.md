@@ -2,7 +2,6 @@
 title: "Trends and topics: Characterizing echo chambers’ topological stability and in-group attitudes"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-trends-and-topics
 excerpt: 'This paper analyzes echo chambers’ structural stability and the role of in-group attitudes in shaping online discussions.'
 date: 2024-01-01
 venue: 'PLOS Complex Systems'

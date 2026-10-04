@@ -2,7 +2,6 @@
 title: "From Perils to Possibilities: Understanding how Human (and AI) Biases affect Online Fora"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-from-perils-to-possibilities
 excerpt: 'This paper examines how human and artificial-intelligence biases affect online discussion spaces.'
 date: 2024-03-21
 venue: 'arXiv preprint arXiv:2403.14298'

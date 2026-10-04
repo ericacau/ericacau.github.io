@@ -30,16 +30,14 @@ publist = {
         "file" : "proceedings.bib",
         "venuekey": "booktitle",
         "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+        "collection" : {"name":"publications"}
         
     },
     "journal":{
         "file": "pubs.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+        "collection" : {"name":"publications"}
     } 
 }
 
@@ -117,8 +115,6 @@ for pubsource in publist:
             
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
 
-            md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
-            
             note = False
             if "note" in b.keys():
                 if len(str(b["note"])) > 5:

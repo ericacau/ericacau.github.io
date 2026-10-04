@@ -2,7 +2,6 @@
 title: "Y Social: an LLM powered digital twin @ CS2Italy"
 collection: talks
 type: "Oral presentation"
-permalink: /talks/2025-01-17
 venue: "University of Trento"
 date: 2025-01-17
 location: "Trento"

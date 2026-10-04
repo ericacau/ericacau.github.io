@@ -2,7 +2,6 @@
 title: "Digital Humanities courses"
 collection: teaching
 type: "Tutor"
-permalink: /teaching/2022-digital-humanities
 venue: "University of Pisa"
 date: 2022-02-01
 location: "Pisa, Italy"
